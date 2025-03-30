@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="left"  style="display: flex; flex-wrap: wrap; gap: 0px;">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
