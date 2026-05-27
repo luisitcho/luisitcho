@@ -3,6 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logoColor=white)](https://instagram.com/luisitcho) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logoColor=white)](https://linkedin.com/in/luishenriquesc)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23232F3E?logoColor=white)](https://luisitcho.com.br/)
+[![Ozyris](https://img.shields.io/badge/Ozyris-%23000000.svg?logoColor=white)](https://ozyris.com.br/)
 
 ###
 
