@@ -1,5 +1,3 @@
-# Luis Henrique
-
 ### Front-End Developer
 
 > Building digital experiences with performance in mind.
